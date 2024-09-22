@@ -1,0 +1,34 @@
+Improving Shopping Mall Revenue by Real Time Customized Digital Coupon Issuance
+
+
+IEEE Transaction on Machine Learning,Volume:11,Issue Date:23.January.2023
+
+
+Customer churn prediction, deep learning, digital marketing, ecommerce, recommendation system.
+
+
+Improving_Shopping_Mall_Revenue
+
+
+
+improving_shopping_mall_revenue
+
+
+predict_revenue
+
+
+
+Tid	
+coupon_no	
+customer_id	
+gender	
+age	
+category	
+quantity	
+price	
+payment_method	
+invoice_date	
+shopping_mall
+Prediction
+
+
